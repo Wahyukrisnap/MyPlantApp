@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <circle cx="25" cy="25" r="23" fill="#E8F5E9" stroke="#4CAF50" stroke-width="2" />
+  
+  <!-- Info icon -->
+  <circle cx="25" cy="15" r="2" fill="#4CAF50" />
+  <line x1="25" y1="22" x2="25" y2="35" stroke="#4CAF50" stroke-width="3" />
+  
+  <!-- Book/page outline -->
+  <path d="M15 10 L15 40 L35 40 L35 10 Z" fill="none" stroke="#4CAF50" stroke-width="1" />
+  <line x1="20" y1="25" x2="30" y2="25" stroke="#4CAF50" stroke-width="1" />
+  <line x1="20" y1="30" x2="30" y2="30" stroke="#4CAF50" stroke-width="1" />
+  <line x1="20" y1="35" x2="30" y2="35" stroke="#4CAF50" stroke-width="1" />
+</svg>

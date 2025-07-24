@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <linearGradient id="leafGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#81C784" />
+      <stop offset="100%" stop-color="#388E3C" />
+    </linearGradient>
+  </defs>
+  <circle cx="75" cy="75" r="70" fill="#E8F5E9" />
+  <g transform="translate(35, 25)">
+    <!-- Plant stem -->
+    <path d="M40 100 Q40 70 40 40" stroke="#5D4037" stroke-width="6" fill="none" />
+    
+    <!-- Leaves -->
+    <path d="M40 60 Q60 50 70 60 Q60 70 40 60" fill="url(#leafGradient)" />
+    <path d="M40 50 Q20 40 10 50 Q20 60 40 50" fill="url(#leafGradient)" />
+    <path d="M40 70 Q20 60 10 70 Q20 80 40 70" fill="url(#leafGradient)" />
+    <path d="M40 40 Q60 30 70 40 Q60 50 40 40" fill="url(#leafGradient)" />
+    
+    <!-- Pot -->
+    <path d="M20 100 L30 85 L50 85 L60 100 Z" fill="#FF7043" />
+  </g>
+</svg>

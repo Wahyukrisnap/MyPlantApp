@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <circle cx="25" cy="25" r="23" fill="#E8F5E9" stroke="#4CAF50" stroke-width="2" />
+  <g transform="translate(15, 10)">
+    <!-- Plant stem -->
+    <path d="M10 30 Q10 20 10 10" stroke="#5D4037" stroke-width="2" fill="none" />
+    
+    <!-- Leaves -->
+    <path d="M10 20 Q15 15 20 20 Q15 25 10 20" fill="#4CAF50" />
+    <path d="M10 15 Q5 10 0 15 Q5 20 10 15" fill="#4CAF50" />
+    <path d="M10 10 Q15 5 20 10 Q15 15 10 10" fill="#4CAF50" />
+  </g>
+  
+  <!-- Plus sign -->
+  <circle cx="35" cy="35" r="8" fill="#4CAF50" />
+  <line x1="35" y1="31" x2="35" y2="39" stroke="white" stroke-width="2" />
+  <line x1="31" y1="35" x2="39" y2="35" stroke="white" stroke-width="2" />
+</svg>
